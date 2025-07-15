@@ -14,4 +14,3 @@ Today, email is mostly shared by everyone to share the information and files bec
 
 Here I have used Multinomial Naïve Bayes classifier because the data is in a discrete form.
 
-Check out my post: https://www.linkedin.com/posts/activity-6948365699698294784-vyPo?utm_source=linkedin_share&utm_medium=member_desktop_web
